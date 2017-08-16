@@ -1,4 +1,4 @@
-# gerFinance
+# Gerenciador Financeiro com Angular
 Sistema de Controle Financeiro para estudo do Angular/Ionic
 
 
